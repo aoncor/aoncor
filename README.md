@@ -1,16 +1,43 @@
-## Hi there 👋
+# Aoncor
 
-<!--
-**aoncor/aoncor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent studio**
 
-Here are some ideas to get you started:
+Software, systems, and creative works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## One stage. Unlimited possibilities.
+
+Aoncor is an independent studio engaged in the design, development, and operation of software, digital systems, and creative works.
+
+Rather than focusing on a single discipline, Aoncor explores opportunities across technology, design, and creative fields, applying the same principles of thoughtful design, careful execution, and continuous exploration to each undertaking.
+
+</div>
+
+---
+
+## Software first. Not limited to software.
+
+- **Software** — Apps, tools, platforms, web products, and small systems shipped under individual product brands.
+- **Design** — Interfaces, visual systems, prototypes, and product identities when the work requires it.
+- **Creative work** — Experimental digital artifacts, art-adjacent products, and future physical or related goods.
+
+</div>
+
+---
+
+## Products
+
+### Released work will live here.
+
+> **Coming soon**
+
+---
+
+<div align="center">
+
+**[aoncor.com](https://aoncor.com)**
+
+</div>
